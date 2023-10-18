@@ -1,4 +1,4 @@
-module github.com/tamadeu/imersao/codepix-go
+module github.com/tamadeu/codepix
 
 go 1.15
 
